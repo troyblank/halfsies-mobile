@@ -1,0 +1,1 @@
+export RegularText from './regularText';
